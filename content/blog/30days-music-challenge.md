@@ -1,8 +1,8 @@
 ---
-title: "30일 음악듣기 챌린지"
+title: '30일 음악듣기 챌린지'
 date: 2022-10-12
 draft: false
-category: "Music"
+category: 'Music'
 ---
 
 ![img](img/30days-music-challenge/1.jpeg)
@@ -79,11 +79,11 @@ category: "Music"
 
 ## 10. 나를 슬프게 만드는 노래
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VFSg01HDqAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n78Gg6_zEQg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Jake Hill & Josh A - Suicidal Thoughts**
 
-힘들 때 많이 들었던 노래
+힘들 때 많이 들었던 노래, powfu 특유의 슬픈 느낌이 좋다.
 
 ## 11. 절대 질리지 않는 노래
 

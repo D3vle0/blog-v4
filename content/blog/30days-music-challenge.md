@@ -81,7 +81,7 @@ category: 'Music'
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n78Gg6_zEQg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Jake Hill & Josh A - Suicidal Thoughts**
+**Promoting Sounds, Powfu, Ouse - Dead Eyes**
 
 힘들 때 많이 들었던 노래, powfu 특유의 슬픈 느낌이 좋다.
 

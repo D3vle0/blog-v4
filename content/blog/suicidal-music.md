@@ -1,7 +1,7 @@
 ---
 title: '우울한 음악 플레이리스트'
 date: 2022-10-18
-draft: false
+draft: true
 category: 'Music'
 ---
 

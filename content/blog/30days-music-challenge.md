@@ -1,7 +1,7 @@
 ---
 title: '30일 음악듣기 챌린지'
 date: 2022-10-12
-draft: false
+draft: true
 category: 'Music'
 ---
 
